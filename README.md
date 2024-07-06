@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.edupassport.io/wp-content/uploads/2023/04/CR1-T414-31-03-2023-11_44_20_268-1.jpg)
+![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Akhil Meesala</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
